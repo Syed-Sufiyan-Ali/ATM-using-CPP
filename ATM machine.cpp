@@ -12,7 +12,7 @@ while (true){
 
 
 <<<<<<< HEAD
-	cout << "Which account do you want to open press " << endl <<"1 for Savings "<< endl <<"2 for Current ";
+	cout << "Which account are you willing to open press " << endl <<"1 for Savings "<< endl <<"2 for Current ";
 =======
 	cout << "<======================================================================> \nWhich account do you want to open press " << endl <<"1 for Savings "<< endl <<"2 for Current ";
 >>>>>>> 26a06bc764e8263622ceb73f2dc2eeeaaefc809a
